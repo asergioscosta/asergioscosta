@@ -26,7 +26,7 @@ Welcome to my GitHub profile.
 
 ## GitHub
 
-[![Estatísticas do GitHub](https://img.shields.io/github/follow/asergioscosta?label=Follow&style=for-the-badge&labelColor=1ca0f1&logo=github&logoColor=white)](https://github.com/asergioscosta?tab=followers)
+[![Estatísticas do GitHub](https://img.shields.io/github/followers/asergioscosta?label=Follow&style=for-the-badge&labelColor=1ca0f1&logo=github&logoColor=white)](https://github.com/asergioscosta/?tab=follow)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asergioscosta&show_icons=true&theme=transparent)
 
