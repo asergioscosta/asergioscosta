@@ -14,7 +14,7 @@ Welcome to my GitHub profile.
 
 [![Currículo Lattes Badge](https://img.shields.io/badge/-Lattes-%231867b3?style=for-the-badge&logo=orcid&logoColor=white)](http://lattes.cnpq.br/3052899187001757)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asergioscosta)
-![Gmail]<a href = "mailto: asergioscosta@gmail.com">(https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href = "mailto: asergioscosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asergioscosta/) 
 
 ## Languages and Technologies
