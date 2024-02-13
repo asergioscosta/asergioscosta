@@ -1,21 +1,15 @@
 # Augusto Sérgio
 
-Welcome to my GitHub profile.
+Welcome to my Profile! 👋
 
 ## About Me
 
-- 🎓 Information Technology Technician from Colégio Politécnico PioXII - Juiz de Fora;
-- 💻 Student of Information Systems at Faculdade Metodista Granbery;
-- 💡 Always eager to learn and enhance all my knowledge;
-- 🚀 Passionate about technology, constantly seeking new challenges in the field;
-- ⚡ I approach each challenge as an opportunity for learning and continuous improvement.
+🚀 I'm passionate about technology, web development, and databases. I'm always seeking new challenges and opportunities to learn and grow professionally. For me, each challenge is a unique opportunity for learning and continuous improvement.
 
-## Contact
+## GitHub Stats
 
-[![Currículo Lattes Badge](https://img.shields.io/badge/-Lattes-%231867b3?style=for-the-badge&logo=orcid&logoColor=white)](http://lattes.cnpq.br/3052899187001757)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asergioscosta)
-<a href = "mailto: asergioscosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asergioscosta/) 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asergioscosta&show_icons=true)](https://github.com/asergioscosta)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asergioscosta&layout=compact)](https://github.com/asergioscosta/github-readme-stats)
 
 ## Languages and Technologies
 
@@ -28,6 +22,11 @@ Welcome to my GitHub profile.
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-## GitHub
+## Get in Touch
 
-[![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=asergioscosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/asergioscosta/?tab=follow) ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asergioscosta&layout=compact&langs_count=8&theme=dracula)
+If you want to discuss projects, collaborations, or just chat, feel free to contact me. I'm always open to new opportunities and connections.
+
+[![Currículo Lattes Badge](https://img.shields.io/badge/-Lattes-%231867b3?style=for-the-badge&logo=orcid&logoColor=white)](http://lattes.cnpq.br/3052899187001757)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asergioscosta)
+<a href = "mailto: asergioscosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asergioscosta/)
