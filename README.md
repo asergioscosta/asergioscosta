@@ -8,7 +8,9 @@ Welcome to my Profile! 👋
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asergioscosta&show_icons=true)](https://github.com/asergioscosta) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asergioscosta&layout=compact)](https://github.com/asergioscosta/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asergioscosta&show_icons=true)](https://github.com/asergioscosta)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asergioscosta&layout=compact)](https://github.com/asergioscosta/github-readme-stats)
 
 ## Languages and Technologies
 
