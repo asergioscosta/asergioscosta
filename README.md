@@ -1,4 +1,4 @@
-## Hi, I'm Augusto! 👋 
+**Hi**, I'm Augusto! 👋 
 
 - I'm an Information Systems student. 
 - I'm interested in Agile Methodologies, Object Oriented Programming and Software Architecture and Design.
