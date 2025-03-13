@@ -29,5 +29,7 @@
 
 <div style="display: flex; justify-content: center;">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asergioscosta&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asergioscosta&layout=compact&theme=dark" />
+<a href="https://github.com/anuraghazra/convoychat">
+    <img height="" style="width: 500;" src="https://github-readme-stats.vercel.app/api/top-langs?username=asergioscosta&layout=compact&langs_count=8&card_width=320&theme=merko" />
+</a>
 </div>
